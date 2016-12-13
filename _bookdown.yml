@@ -1,0 +1,9 @@
+book_filename: bookdown
+clean: [packages.bib, bookdown.bbl]
+language:
+  label:
+    fig: "FIGURE "
+    tab: "TABLE "
+  ui:
+    edit: "Edit"
+    chapter_name: "Chapter "
