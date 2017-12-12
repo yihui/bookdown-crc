@@ -12,6 +12,7 @@ lof: yes
 site: bookdown::bookdown_site
 description: "A book example for a Chapman & Hall book."
 github-repo: yihui/bookdown-crc
+graphics: yes
 #cover-image: images/cover.jpg
 ---
 
