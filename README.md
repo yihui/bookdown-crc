@@ -4,7 +4,7 @@ This is a minimal example for those who plan to write books for Chapman & Hall. 
 
 Since this example is minimal, it does not cover all technical details (e.g. the Markdown syntax), and you need to read the [**bookdown** book](https://bookdown.org/yihui/bookdown) before you write anything that is slightly complicated.
 
-For a full example, you may take a look at [the source](https://github.com/rstudio/bookdown/tree/master/inst/examples) of the **bookdown** book.
+For a full example, you may take a look at [the source](https://github.com/rstudio/bookdown/tree/master/inst/examples) of the **bookdown** book, or any books on https://bookdown.org that have public source repositories.
 
 ![front page](https://user-images.githubusercontent.com/163582/43735138-808971fe-997f-11e8-987a-180b5baacefd.png)
 
